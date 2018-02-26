@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Итиль</name>
+	<Icon>
+		<href>https://4.bp.blogspot.com/-x22xJJle9wA/WpMZh9oiwHI/AAAAAAAA4I0/1Iv_yUhC3jwLk0w8QveDjxTMPQTmVeKYgCEwYBhgL/s1600/%25D0%25A1%25D0%25BF%25D0%25BE%25D1%2580%25D1%2582%25D0%25BA%25D0%25B0%25D1%2580%25D1%2582%25D0%25B0%2B%25D0%2598%25D1%2582%25D0%25B8%25D0%25BB%25D1%258C-5000-%25D1%2581%25D0%25B5%25D0%25B9%25D0%25BA%25D0%25B8%25D0%25BD.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>48.81933362467603</north>
+		<south>48.81233356248322</south>
+		<east>44.72093578003381</east>
+		<west>44.69797389461175</west>
+		<rotation>0.0520356561195033</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
